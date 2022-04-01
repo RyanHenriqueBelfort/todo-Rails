@@ -1,0 +1,16 @@
+@import "bootstrap";
+
+html, body{
+    height: 100%;
+}
+
+.bg {    
+    background-image: url("../../assets/images/pexels-mads-thomsen-2739013\ \(1\).jpg");
+    background-position: center;
+    background-size: cover;
+    object-fit: cover ;
+}
+
+main{
+    opacity: 0.85;
+}

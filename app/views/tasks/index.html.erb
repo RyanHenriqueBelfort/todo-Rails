@@ -1,0 +1,31 @@
+<div class="row mb-2">
+  <div class="col-8">
+    <h1 class="display-4">Tarefas</h1>
+  </div>
+
+  <div class='col-4 mt-4 text-end'>
+    <%= link_to '+ Tarefa', new_task_path, class: 'btn btn-success'%>
+  </div>
+</div>
+
+<% if @tasks.any? %>
+  <table class="table table-borderless">
+    <thead>
+      <tr>
+        <th>Descrição</th>
+        <th>Prazo</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <% @tasks.each do |task|%>
+        <tr class="border-top">
+          <td><%= task.description %></td>  
+          <td><%= l task.due_date %></td>  
+        </tr>
+        <% end %>
+    </tbody>
+  <table>
+<% else %>
+  <p>Nenhuma tarefa foi cadastrada ainda.</p>
+<% end %>
