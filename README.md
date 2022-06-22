@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicação To-Do usando Framework Rails
 
-Things you may want to cover:
+<img src="https://user-images.githubusercontent.com/70604408/175019830-daf90c53-7682-4f3c-9222-974034fb555d.png" width="400px">
 
-* Ruby version
+Conhecimentos adquiridos fazendo a aplicação:
 
-* System dependencies
+* Arquitetura MVC
 
-* Configuration
+* Ruby
 
-* Database creation
+* Postgresql
 
-* Database initialization
+* Bootstrap
 
-* How to run the test suite
+* Conhecimetos em algumas Gems do Rails
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-<img src="https://user-images.githubusercontent.com/70604408/175019830-daf90c53-7682-4f3c-9222-974034fb555d.png" width="200px">
 * ...
