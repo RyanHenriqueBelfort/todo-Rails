@@ -20,5 +20,5 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-<img src="https://cdn.pixabay.com/photo/2022/06/18/18/05/skateboard-7270418_960_720.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/70604408/175019830-daf90c53-7682-4f3c-9222-974034fb555d.png" width="200px">
 * ...
