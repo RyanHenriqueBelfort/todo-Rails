@@ -20,5 +20,5 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-<a href='https://br.freepik.com/fotos-vetores-gratis/iluminacao'>Iluminação vetor criado por freepik - br.freepik.com</a>
+<img src="https://cdn.pixabay.com/photo/2022/06/18/18/05/skateboard-7270418_960_720.jpg" width="50px">
 * ...
